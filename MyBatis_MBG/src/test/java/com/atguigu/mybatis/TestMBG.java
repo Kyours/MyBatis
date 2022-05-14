@@ -37,5 +37,6 @@ public class TestMBG {
         } catch (IOException e) {
             e.printStackTrace();
         }
+        System.out.println("Hello git");
     }
 }
