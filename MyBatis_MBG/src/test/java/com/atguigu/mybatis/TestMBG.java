@@ -38,5 +38,6 @@ public class TestMBG {
             e.printStackTrace();
         }
         System.out.println("Hello git");
+        System.out.println("Hello git2");
     }
 }
